@@ -29,6 +29,6 @@ public class DecreasingFractions {
 		System.out.println(sequenceSum(0.5)+"\n");  
 		System.out.println(sequenceSum(1.5)+"\n");
 	    System.out.println(sequenceSum(2.0)+"\n");
-	   System.out.println(sequenceSum(7.0)+"\n");
+	    System.out.println(sequenceSum(7.0)+"\n");
 	}
 }
